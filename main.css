@@ -1,5 +1,8 @@
 hr { 
-  border: solid 1px #EEE;
+  border: 0;
+  height: 0;
+  border-top: 1px solid #EEE;
+  border-bottom: 1px solid #EEE;
 }
 body {
   display: flex;
