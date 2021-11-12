@@ -1,5 +1,6 @@
 hr { 
 border: solid 1px #EEE;
+height: 0px;
 }
 body {
 display: flex;
