@@ -1,5 +1,6 @@
 sep { 
   height: 0px;
+  width: 300px;
   border: solid 1px #EEE;
   display: flex;
   flex-direction: column;
