@@ -1,10 +1,5 @@
 hr { 
-  height: 1px;
-  width: 300px;
   border: solid 1px #EEE;
-  display: flex;
-  flex-direction: column;
-  padding: 10px;
 }
 body {
   display: flex;
