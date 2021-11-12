@@ -1,9 +1,12 @@
 hr { 
-border: solid 1px #EDEDED;
-height: 0px;
+  height: 0px;
+  border: solid 1px #EEE;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
 }
 body {
-display: flex;
-flex-direction: column;
-padding: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
 }
